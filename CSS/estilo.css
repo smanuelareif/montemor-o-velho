@@ -1,0 +1,56 @@
+.c{
+    font-family: 'Poppins', sans-serif;
+}
+.titulo{
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+.form-inline {
+    margin-left: auto;
+}
+.historia{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 5%;
+}
+iframe{
+    border: 0px;
+    border-radius: 15px;
+}
+.introdução{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 5%;
+}
+.historiab{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 10%;
+}
+.como{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 5%;
+}
+.significado{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 5%;
+}
+.curiosidade{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding-left: 5%;
+}
+.contato{
+    padding-left: 5%;
+}
+.map{
+    padding-left: 50%;
+}
